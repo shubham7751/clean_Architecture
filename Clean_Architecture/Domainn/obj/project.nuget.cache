@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8pFUNWgzqmUIhYbVezMZ7muK/6kOJy5d2/+HjL3m5MUJJ6THcmvHb14DZKQM83GdEx05QhfVpjfKzOhvEDPGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NTS-ShubhamJawale\\Desktop\\c#code\\Clean_Architecture\\Domainn\\Domainn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NTS-ShubhamJawale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\NTS-ShubhamJawale\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\NTS-ShubhamJawale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

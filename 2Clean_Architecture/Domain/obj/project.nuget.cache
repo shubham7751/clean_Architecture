@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1pl+1dPYZKQPAXnyWsLdpydsS7Uli0MEjignD2DzGZOaml7uV8ahgl8ITje0WQ4PwWodfqYnYs38nj4+T8sXTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NTS-ShubhamJawale\\Desktop\\git\\2Clean_Architecture\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NTS-ShubhamJawale\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\NTS-ShubhamJawale\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\NTS-ShubhamJawale\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
